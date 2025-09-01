@@ -1,8 +1,5 @@
 import random
 
-
-import sys
-
 while True:
     choice = input('Roll the dice? (y/n): ').lower()
 
