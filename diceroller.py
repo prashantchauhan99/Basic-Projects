@@ -1,5 +1,5 @@
 import random
-import sys
+
 
 import sys
 
@@ -13,6 +13,6 @@ while True:
 
     elif choice == 'n':
         print('Thanks for playing.')
-        sys.exit()
+        break
     else:
         print('Invalid input!!\nPlease try again.')
